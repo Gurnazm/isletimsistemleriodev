@@ -1,0 +1,8 @@
+build/
+*.cooja
+*.native
+*.z1
+!new-firmware.z1
+*.o
+*.d
+*.map
